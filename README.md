@@ -1,12 +1,5 @@
 # Bipartite-Networks
-
-# Table of Contents
-## Description
-## Installation
-## Usage
-## One-Mode Projection
-## Bipartite Matrix from DataFrame
-## Conclusion
+A bipartite network comprises nodes segregated into two separate sets, with connections existing solely between nodes from distinct sets. 
 
 # Description
 This README provides an overview of how to analyze bipartite networks using the igraph library in R. The provided code demonstrates the creation of bipartite networks, projection to one-mode networks, and creating bipartite matrices from data frames. It's designed to help users understand, utilize, and extend the functionalities for their own analysis.
