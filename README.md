@@ -6,7 +6,7 @@ Installation
 Usage
 One-Mode Projection
 Bipartite Matrix from DataFrame
-License
+Conclusion
 
 # Description
 This README provides an overview of how to analyze bipartite networks using the igraph library in R. The provided code demonstrates the creation of bipartite networks, projection to one-mode networks, and creating bipartite matrices from data frames. It's designed to help users understand, utilize, and extend the functionalities for their own analysis.
